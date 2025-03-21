@@ -1,0 +1,35 @@
+[33mcommit e35ce709eaef0fcd2281475c157d6b30921ae94e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a3331df 5fa9944
+Author: Gihwan_Park <pgh5121@naver.com>
+Date:   Fri Mar 21 16:47:25 2025 +0900
+
+    Merge pull request #2 from GihwanPark/feature/bbb.html
+    
+    충돌없음
+
+[33mcommit 5fa9944d744f3234f60f7799ffd749b1ee4181ee[m
+Author: hyunnk <jhyunnk30@gmail.com>
+Date:   Fri Mar 21 16:45:40 2025 +0900
+
+    bbb.html 생성
+
+[33mcommit a3331dff2c46ff3727c5d95066cec66472a230ab[m
+Merge: fa2b09e 0128b09
+Author: Gihwan_Park <pgh5121@naver.com>
+Date:   Fri Mar 21 16:32:33 2025 +0900
+
+    Merge pull request #1 from GihwanPark/feature/test1
+    
+    init
+
+[33mcommit 0128b091e398a78ecb897a96b0d003b94a672bf7[m[33m ([m[1;31morigin/feature/test1[m[33m)[m
+Author: Gihwan-Park <pgh5121@naver.com>
+Date:   Fri Mar 21 16:28:56 2025 +0900
+
+    init
+
+[33mcommit fa2b09e22a3f136c38ed26fcdd4fbcacb72f301c[m[33m ([m[1;32mdev[m[33m)[m
+Author: Gihwan-Park <pgh5121@naver.com>
+Date:   Fri Mar 21 16:15:54 2025 +0900
+
+    init
